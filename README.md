@@ -1,36 +1,38 @@
 # hoard-releases
 
-Binaries only. For the boyzzzzz.
+Oi. Binaries only. For the boyzzzzz.
 
-Hoard is a goblin RPG that happens to be your budget. It reads your bank alert emails and keeps everything on your PC. No cloud, no account, no ads. Just goblin. This is the way.
+This is Gribble. I live in Hoard. Hoard reads your bank alert emails and makes me count your gold. Everything stays on your PC. No cloud, no account, no ads. I am the only one judging you, and I judge a lot.
 
 ## Install
 
-1. Grab `Hoard.Setup.exe` from the [latest release](https://github.com/Jordunkelly/hoard-releases/releases/latest)
-2. Windows says it protected you. More info, Run anyway. Trust me bro.
+1. Steal `Hoard.Setup.exe` from the [latest release](https://github.com/Jordunkelly/hoard-releases/releases/latest)
+2. Windows says it protected you. From me. Cute. More info, Run anyway.
 3. ???
-4. Profit
+4. Goblin
 
-Windows only. Mac bros, press F.
+Windows only. Mac bros, press F. Actually don't. Too shiny, not enough gold.
 
 ## Updates
 
-It checks every 10 minutes and drops a badge in the sidebar. Click it. If Hoard ghosts you after, run the installer once. Task failed successfully.
+Every 10 minutes I check for a new version. Unpaid. When I find one, a badge shows up. Click it. If the app dies and stays dead, run the installer once. Task failed successfully. Not my fault. It was the old goblin.
 
 ## Testing
 
-I need nothing from you. But if you want to donate your body to science, I will not deny your love. Break stuff, screenshot it, drop it in the group chat. It's not much, but it's honest work.
+He needs nothing from you. He said so. I heard it. But if you want to donate your body to science, he will not deny your love. Break stuff. Screenshot it. Drop it in the group chat. Do not just tell me "it's broken." Sir, this is a hoard.
 
 ## FAQ
 
-**Bank password?** Never. It reads the alerts, not your bank.
+**Bank password?** Never. I read the alerts, not your bank. I have standards. Low ones.
 
-**Phones home?** Only GitHub asking about updates, plus shop logos if you said yes. Both switch off in Settings.
+**Phones home?** Only GitHub asking about updates, plus shop logos if you said yes. Both switch off in Settings. Paranoid? Valid. So am I.
 
-**My spending, all in one place?** I'm in this photo and I don't like it.
+**My spending, all in one place?** I'm in this photo and I don't like it. You spent HOW much on tacos.
 
-**Free?** For you, it's free real estate.
+**Free?** For you. It's free real estate. The goblin is not.
 
-**Why goblins?** Stonks.
+**Why goblins?** Stonks only go up when you stop buying crap.
 
-Edit: thanks for the gold, kind stranger.
+Nothing personal. I hate all of you equally.
+
+Edit: thanks for the gold, kind stranger. I'm keeping it.
