@@ -13,7 +13,7 @@
        \_____/
 ```
 
-Oi. Gribble here. I count your gold so you don't have to look. Trust me. You don't want to look.
+Oi. Gibbles here. I count your gold so you don't have to look. Trust me. You don't want to look.
 
 **This is Hoard.** A budget app that is secretly a goblin RPG. It reads your bank alerts and judges you. Everything stays on your PC. No cloud. No ads. No mercy. Not even your ex gets a copy.
 
@@ -30,6 +30,6 @@ The last two switch off in Settings.
 
 **For the thirsty mfs:** the Maul is locked. It's a concept. Stop licking the glass.
 
-[Grab the latest build](https://github.com/Jordunkelly/hoard-releases/releases/latest). Windows only. It updates itself. Mac bros, skill issue.
+**Downloads are down for maintenance while the private keys go in.** Back soon. Windows only. It updates itself. Mac bros, skill issue.
 
 *The Keeper has the energy of a goblin on six espressos. This page may change on a dime. Yes, that was a money pun. I hate it too.*
