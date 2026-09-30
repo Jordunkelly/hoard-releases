@@ -30,6 +30,6 @@ The last two switch off in Settings.
 
 **For the thirsty mfs:** the Maul is locked. It's a concept. Stop licking the glass.
 
-**Downloads are down for maintenance while the private keys go in.** Back soon. Windows only. It updates itself. Mac bros, skill issue.
+**[Grab the latest build](https://github.com/Jordunkelly/hoard-releases/releases/latest).** Windows only. It updates itself. It asks for your key on first launch. No key, no gold. Mac bros, skill issue.
 
 *The Keeper has the energy of a goblin on six espressos. This page may change on a dime. Yes, that was a money pun. I hate it too.*
