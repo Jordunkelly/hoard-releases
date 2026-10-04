@@ -21,15 +21,15 @@ Oi. Gibbles here. I count your gold so you don't have to look. Trust me. You don
 
 **What leaves your PC. The whole list.**
 1. Your own mailbox, over TLS, to fetch your alerts.
-2. GitHub, every 10 minutes, asking if there's a new version. It sees your IP. That's it.
+2. GitHub, <!-- sync:update-poll -->every 10 minutes<!-- /sync:update-poll -->, asking if there's a new version. It sees your IP. That's it.
 3. DuckDuckGo, once per shop, for logos. Only if you said yes.
 
 The last two switch off in Settings.
 
 **Donate your body to science.** Install it. Break it. Screenshot the crime scene for the group chat. Testers get a free Steam key at launch. I don't make deals twice.
 
-**For the thirsty mfs:** the Maul opens in 1.6.5. It's a construction site, not a castle. Hard hats on. It will break. Screenshot the wreckage for the group chat.
+**For the thirsty mfs:** <!-- sync:maul -->the Maul opens in 1.6.5. It's a construction site, not a castle. Hard hats on. It will break. Screenshot the wreckage for the group chat.<!-- /sync:maul -->
 
-**[Grab the latest build](https://github.com/Jordunkelly/hoard-releases/releases/latest).** Windows only. It updates itself. It asks for your key on first launch. No key, no gold. Mac bros, skill issue.
+**[Grab the latest build](https://github.com/Jordunkelly/hoard-releases/releases/latest).** Windows only. <!-- sync:version -->Version 1.6.4.<!-- /sync:version --> It updates itself. It asks for your key on first launch. No key, no gold. Mac bros, skill issue.
 
 *The Keeper has the energy of a goblin on six espressos. This page may change on a dime. Yes, that was a money pun. I hate it too.*
