@@ -28,7 +28,7 @@ The last two switch off in Settings.
 
 **Donate your body to science.** Install it. Break it. Screenshot the crime scene for the group chat. Testers get a free Steam key at launch. I don't make deals twice.
 
-**For the thirsty mfs:** the Maul is locked. It's a concept. Stop licking the glass.
+**For the thirsty mfs:** the Maul opens in 1.6.5. It's a construction site, not a castle. Hard hats on. It will break. Screenshot the wreckage for the group chat.
 
 **[Grab the latest build](https://github.com/Jordunkelly/hoard-releases/releases/latest).** Windows only. It updates itself. It asks for your key on first launch. No key, no gold. Mac bros, skill issue.
 
