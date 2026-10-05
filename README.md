@@ -13,7 +13,7 @@
        \_____/
 ```
 
-**This is Hoard.** A budget app that is secretly a goblin RPG. It reads your bank alerts and judges you. Everything stays on your PC. No cloud. No ads. No mercy. Not even your ex gets a copy.
+**This is Hoard.** A budget app that is secretly a goblin RPG. It reads your bank alerts and judges you. Everything stays on your PC. No ads. No mercy. Not even your ex gets a copy.
 
 **How it works. Three steps, try to keep up.**
 
@@ -37,7 +37,7 @@ Bank emails and passwords? AES 256. Nick the hard drive and enjoy your gibberish
 
 No accounts. No cloud. No spying. I don't know your name. I'm keeping it that way.
 
-**Still don't believe me? Yank the internet.** Hoard keeps counting. I keep judging.
+**Still don't believe me? Yank the internet.** Hoard keeps counting. I keep sneering.
 
 <!-- /sync:security -->
 
@@ -50,8 +50,8 @@ The last two switch off in Settings.
 
 **Donate your body to science.** Install it. Break it. Screenshot the crime scene for the group chat. Testers get a free Steam key at launch. I don't make deals twice.
 
-**For the thirsty mfs:** <!-- sync:maul -->the Maul opens in the next build. It's a construction site, not a castle. Hard hats on. It will break. Screenshot the wreckage for the group chat.<!-- /sync:maul -->
+**For the thirsty mfs:** <!-- sync:maul -->the Maul opens in the next build. I'm pulling overtime trying to make this tower defense thing somewhat work. No promises. Quit breathing down my neck.<!-- /sync:maul -->
 
-**[Grab the latest build](https://github.com/Jordunkelly/hoard-releases/releases/latest).** Windows only. <!-- sync:version -->Version 1.6.4.<!-- /sync:version --> It updates itself. It asks for your key on first launch. No key, no gold. Mac bros, skill issue.
+**[Grab the latest build](https://github.com/Jordunkelly/hoard-releases/releases/latest).** Windows only. <!-- sync:version -->Version 1.6.4.<!-- /sync:version --> It updates itself. It asks for your key on first launch. Mac bros, skill issue.
 
 *The Keeper has the energy of a goblin on six espressos. This page may change on a dime. Yes, that was a money pun. I hate it too.*
