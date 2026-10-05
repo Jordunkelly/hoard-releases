@@ -13,9 +13,19 @@
        \_____/
 ```
 
-Oi. Gibbles here. I count your gold so you don't have to look. Trust me. You don't want to look.
-
 **This is Hoard.** A budget app that is secretly a goblin RPG. It reads your bank alerts and judges you. Everything stays on your PC. No cloud. No ads. No mercy. Not even your ex gets a copy.
+
+**How it works. Three steps, try to keep up.**
+
+<!-- sync:how -->
+
+**Gmail.** Make an app password for it. Not your real password, the app one. Proton works too, through Bridge.
+
+**Bank alerts.** Switch on every alert your banks and cards offer: balances, charges, deposits. No alerts, no gold. I can't read mail that never shows up.
+
+**No alerts yet?** Dump me CSV statements from your bank. It works, but you're the one hauling the sacks until the alerts start flowing.
+
+<!-- /sync:how -->
 
 **No, I don't want your data. Stop asking.**
 
