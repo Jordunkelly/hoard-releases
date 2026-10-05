@@ -27,7 +27,7 @@
 
 <!-- /sync:how -->
 
-**No, I don't want your data. Stop asking.**
+**No, I don't want your data.**
 
 <!-- sync:security -->
 
