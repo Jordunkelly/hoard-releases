@@ -13,9 +13,9 @@
        \_____/
 ```
 
-**This is Hoard.** A budget app that is secretly a goblin RPG. It reads your bank alerts and judges you. Everything stays on your PC. No ads. No mercy. Not even your ex gets a copy.
+**This is Hoard.** A budget app that is secretly a goblin RPG. It reads your bank alerts and judges you. Everything stays on your PC. No ads. No mercy. Not even the other goblins get a look.
 
-**How it works. Three steps, try to keep up.**
+**How it works. Three steps. I counted them twice.**
 
 <!-- sync:how -->
 
