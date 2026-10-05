@@ -13,7 +13,11 @@
        \_____/
 ```
 
-**This is Hoard.** A budget app that is secretly a goblin RPG. It reads your bank alerts and judges you. Everything stays on your PC. No ads. No mercy. Not even the other goblins get a look.
+**This is Hoard.** A budget app that is secretly a goblin RPG. If a bank or a card sends you an alert, I read it and file it. Every account you own, one home, for good. No fuss.
+
+Nobody else builds it like this, because there's no money in it for them. The big budget apps want your bank login, a copy of everything you spend and a monthly fee. A bank would buy Hoard tomorrow and sell your habits by Friday.
+
+Not happening. Zero data to me. Zero subscription. Zero middlemen. It all stays on your PC. I'm a goblin. I don't share gold, and I don't share yours.
 
 **How it works. Three steps. I counted them twice.**
 
