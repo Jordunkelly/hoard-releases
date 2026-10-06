@@ -54,8 +54,8 @@ The last two switch off in Settings.
 
 **Donate your body to science.** Install it. Break it. Screenshot the crime scene for the group chat. Testers get a free Steam key at launch. I don't make deals twice.
 
-**For the thirsty mfs:** <!-- sync:maul -->There's a maze under the hoard. Something keeps walking it. The door opens next build.<!-- /sync:maul -->
+**For the thirsty mfs:** <!-- sync:maul -->There's a maze under the hoard. Something keeps walking it. Bring towers.<!-- /sync:maul -->
 
-**[Grab the latest build](https://github.com/Jordunkelly/hoard-releases/releases/latest).** Windows only. <!-- sync:version -->Version 1.6.4.<!-- /sync:version --> It updates itself. It asks for your key on first launch. Mac bros, skill issue.
+**[Grab the latest build](https://github.com/Jordunkelly/hoard-releases/releases/latest).** Windows only. <!-- sync:version -->Version 1.6.5.<!-- /sync:version --> It updates itself. It asks for your key on first launch. Mac bros, skill issue.
 
 *The Keeper has the energy of a goblin on six espressos. This page may change on a dime. Yes, that was a money pun. I hate it too.*
